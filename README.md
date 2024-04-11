@@ -11,14 +11,15 @@ https://www.kaggle.com/datasets/rajeshrampure/black-friday-sale
 
 ##### 任务：
 
-1. 对BlackFriday.csv数据集进行综合分析
+1. 探索性数据分析EDA
+   - 对BlackFriday.csv数据集进行综合分析
    - 分别对客户信息、产品信息进行描述
-2. 建立销售预测模型
+3. 建立销售预测模型
    - 特征工程
    - 多变量线性回归，ANOVA，Tukey’s HSD post hoc test
    - 决策树，随机森林，XGBoost
    - 网格搜索寻找最优模型
-3. 结论
+4. 结论
    - 模型评估
    - 特征重要性
 
